@@ -1,4 +1,4 @@
-# HR-Analysis-project-
+# HR Analysis project
 
 
 ### Project Overview
