@@ -13,7 +13,7 @@ In addition to these metrics, the dashboard provides insights into employee’s 
 
 ### Data Source
 
-The primary data used for the analysis is the “Microsoft Excel(.xlsx)
+The primary data used for the analysis is “Microsoft Excel"(.xlsx)
 
 [Download Here](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXc2OEpqQ1RjdEdYc2pjYlRiSlJWRW11cFNsZ3xBQ3Jtc0tsellyQ3JuSUhKVTJxWmd2cFhVNWVGc1hRMHdmWmQxZTB1b2JMRWJjY2ZvQi1pYkJsOWhybVhLUDZSYkhjUXpZNkM1a3JFSUxjY0ZlaUY2ZTVaNGpsLWJuNHVURkQtb1NDbDNpODlaTHIzOVVBUjN3RQ&q=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F10jiJ0OOildRVm8sLc1qtP8vIurTZ7jqa%2Fedit%3Fusp%3Dsharing%26ouid%3D117553288234376939891%26rtpof%3Dtrue%26sd%3Dtrue&v=zk0_MUuCpYw)
 
@@ -28,6 +28,8 @@ The maximum job satisfaction level was recorded in May 2023 with 88% and the ove
 - It can be observed that in 2022,the maximun hire were made in July with 36 employees as  manager, technical support and analyst  in the departments as follows; adobe -15, facebook- 9, intuit-12 . Followed by a large percentage of hire in June with 33 employees and also in December.
 The highest job satisfaction was recorded in September 2022 with 100%. followed by  July with 97% and then April with 92%.
 
+- So also in 2023, the highest hire were made in Febuary in all Departments and taking all job titles with a total of 51 employees, followed by January which employment were made in all Departments and taking all job titles with a total of 44 employees. September has the smallest rate of hire with 9 employees.
+
 
 ### Dashboard
 
@@ -35,4 +37,4 @@ The highest job satisfaction was recorded in September 2022 with 100%. followed 
 
 
 
-- So also in 2023, the highest hire were made in Febuary in all Departments and taking all job titles with a total of 51 employees, followed by January which employment were made in all Departments and taking all job titles with a total of 44 employees. September has the smallest rate of hire with 9 employees.
+
